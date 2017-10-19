@@ -1,0 +1,8 @@
+activationButton=4
+cyclingButton=I
+scopes=1.25,1.5,1.75,2
+// 1. Кнопка активации
+// 2. Кнопка смены режима
+// 3. Кратность увеличения (1-4 варианта через запятую)
+// Автор программы BadCoder1337 (http://steamcommunity.com/id/BadCoder1337)(Discord: AVE.FaZebook#3120)
+// GitHub (https://github.com/BadCoder1337/game_scoper)
